@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif; 
+}
+img {
+    width: 100%;
+}
+.bottom ol {
+    padding: 0 20px;
+    word-spacing: 1px;
+}
+.bottom ol li {
+    margin-bottom: 10px;
+}
+.top {
+    background-color: rgb(255, 255, 255);
+    margin: 10px;
+    border: 2px solid black;
+    padding: 20px;
+    padding-top: 0;
+}
+.middle, .bottom {
+    margin: 15px;
+}
